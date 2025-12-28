@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "WokflowReference",
+    "description": "",
+    "home_page_url": "https://github.com/mwescoat/workflow-reference.git",
+    "feed_url": "https://github.com/mwescoat/workflow-reference.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Workflow Reference"
+    },
+    "items": [
+    ]
+}
