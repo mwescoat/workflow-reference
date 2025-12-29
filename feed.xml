@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>WokflowReference</title>
-    <link href="https://github.com/mwescoat/workflow-reference.git/feed.xml" rel="self" />
-    <link href="https://github.com/mwescoat/workflow-reference.git" />
+    <link href="https://workflowreference.com/feed.xml" rel="self" />
+    <link href="https://workflowreference.com" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Workflow Reference</name>
     </author>
-    <id>https://github.com/mwescoat/workflow-reference.git</id>
+    <id>https://workflowreference.com</id>
 
 </feed>

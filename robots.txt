@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/mwescoat/workflow-reference.git/sitemap.xml
+Sitemap: https://workflowreference.com/sitemap.xml
